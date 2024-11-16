@@ -1,0 +1,53 @@
+[
+    {
+      "id": "1",
+      "cover": "https://i.ibb.co/7zkMcF2/b1K.jpg",
+      "title": "The Journey to React Mastery",
+      "author": "Jane Doe",
+      "author_image": "https://i.ibb.co/C6JxkVN/au1.jpg",
+      "posted_date": "2024-11-01",
+      "reading_time": 8,
+      "hashtags": ["#React", "#WebDevelopment", "#Frontend"]
+    },
+    {
+      "id": "2",
+      "cover": "https://i.ibb.co/fHmSprf/b2k.jpg",
+      "title": "Understanding Node.js",
+      "author": "John Smith",
+      "author_image": "https://i.ibb.co/zPY9wTZ/au2.jpg",
+      "posted_date": "2024-10-25",
+      "reading_time": 10,
+      "hashtags": ["#NodeJS", "#Backend", "#JavaScript"]
+    },
+    {
+      "id": "3",
+      "cover": "https://i.ibb.co/NCtfTm2/b3k.jpg",
+      "title": "A Guide to MongoDB",
+      "author": "Alice Green",
+      "author_image": "https://i.ibb.co/G76LCbF/au3.jpg",
+      "posted_date": "2024-09-15",
+      "reading_time": 6,
+      "hashtags": ["#MongoDB", "#Database", "#NoSQL"]
+    },
+    {
+      "id": "4",
+      "cover": "https://i.ibb.co/XYGF1SK/happy-young-woman-bed-home-couch-texting-her-friend-118925-347.jpg",
+      "title": "Mastering CSS Animations",
+      "author": "Mike Brown",
+      "author_image": "https://i.ibb.co/7nssn2D/au4.jpg",
+      "posted_date": "2024-08-30",
+      "reading_time": 12,
+      "hashtags": ["#CSS", "#Animations", "#WebDesign"]
+    },
+    {
+      "id": "5",
+      "cover": "https://i.ibb.co/yhgX3bb/b5k.jpg",
+      "title": "Deploying Apps with Docker",
+      "author": "Emily White",
+      "author_image": "https://i.ibb.co/pZRsqQd/au5.jpg",
+      "posted_date": "2024-11-10",
+      "reading_time": 9,
+      "hashtags": ["#Docker", "#DevOps", "#Containerization"]
+    }
+  ]
+  
